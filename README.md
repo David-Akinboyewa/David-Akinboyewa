@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQHVQSCoMiRrXQ/article-cover_image-shrink_600_2000/0/1695736641376?e=2147483647&v=beta&t=6FYsMcbyOMFFZWvMrHmVV9wa42ZuQIWmrKGRgs_JFiw)]
+
 <h1 align="center">Hi 👋, I'm David Akinboyewa</h1>
 <h3 align="center">I'm a passionate Data Analyst and Business Intelligence Anaylst</h3>
 
